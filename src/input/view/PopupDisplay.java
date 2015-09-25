@@ -10,7 +10,7 @@ public class PopupDisplay
 {
 
 	
-	public String getAnswers(String input)
+	public String getAnswer(String input)
 	{
 		String answer = "";
 		
